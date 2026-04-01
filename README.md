@@ -2,7 +2,7 @@
 
 Simulation data and plotting notebook for the cross spectral form factor (xSFF), a diagnostic for detecting hidden symmetries in quantum many-body systems.
 
-Companion to: *Symmetry-Projected Spectral Form Factors as a Probe of Hidden Symmetries*, Zhou, Bai & Bhatt (2025).
+Companion to: *Bootstrapping Symmetries in Quantum Many-Body Systems from the Cross Spectral Form Factor*, Chen Bai, Zihan Zhou, Bastien Lapierre & Shinsei Ryu.
 
 ## Contents
 
